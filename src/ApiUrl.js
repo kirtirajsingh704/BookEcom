@@ -1,0 +1,1 @@
+export const __userapi = "http://localhost:5001/user/"
